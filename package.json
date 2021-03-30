@@ -23,6 +23,7 @@
   "dependencies": {
     "bouncy": "^3.2.2",
     "express-brute": "^1.0.1",
+    "http": "0.0.1-security",
     "http-proxy": "^1.18.1"
   }
 }
